@@ -31,6 +31,12 @@ Here are a few projects I’ve worked on:
 
 ---
 
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreya1829-hubE&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya1829-hub&layout=compact&theme=tokyonight)
+
+---
+
 
 ## 📫 Connect With Me  
 - 💌 Email: [rajgolkarshreya16@gmail.com]   
